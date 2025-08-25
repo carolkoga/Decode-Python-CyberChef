@@ -1,0 +1,7 @@
+BEGIN_PAYLOAD
+id: 2025-01
+url: http://example[.]com/update
+path: C:\Users\Public\Documents\update.bin
+user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+note: Sample benign payload for CyberChef demo
+END_PAYLOAD
